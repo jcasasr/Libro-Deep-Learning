@@ -1,6 +1,6 @@
 # Deep learning: Principios y fundamentos
 ## Material adicional del libro **Deep learning: Principios y fundamentos**
-### Por Jordi Casas Roma, Toni Lozano Bagén y Anna Bosch Rué
+### Por Anna Bosch Rué, Jordi Casas Roma y Toni Lozano Bagén
 
 <a href="https://www.editorialuoc.cat/deep-learning"><img src="https://www.editorialuoc.cat/media/cache/05/16/0516c673ca010fe373fe5a92f0dfa068.jpg" alt="Deep learning: Principios y fundamentos" height="256px" align="right"></a>
 
@@ -24,9 +24,9 @@ Aunque es posible instalar el software necesario para poder seguir los ejemplos,
 - [Kaggle notebooks](https://www.kaggle.com/)
 - [Google Colab](https://colab.research.google.com/)
 
-## Capítulo 3. Preparación de los datos
-En este ejemplo se trabajan funciones de R para explorar visualmente y mediante descriptores estadísticos el juego de datos.
+## Capítulo 3. Principios y fundamentos
+En este capítulo veremos ejemplos básicos de funcionamiento de redes neuronales complemtamente conectadas (feed-forward neural networks).
 
-Ejemplos en R:
+Ejemplos prácticos de este capítulo:
 
-- [Preparación de los datos](cap03/CH3EJ1-Preparacion-de-los-datos.ipynb): xxx
+- [Ejemplo de NN básico](cap03/C03_E1_Ejemplo NN.ipynb): Ejemplo de redes neuronales completamente conectadas empleando Keras.
