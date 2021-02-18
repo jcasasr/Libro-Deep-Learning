@@ -29,4 +29,4 @@ En este capítulo veremos ejemplos básicos de funcionamiento de redes neuronale
 
 Ejemplos prácticos de este capítulo:
 
-- [Ejemplo de NN básico](cap03/C03_E1_Ejemplo NN.ipynb): Ejemplo de redes neuronales completamente conectadas empleando Keras.
+- [Ejemplo de NN básico](cap03/C03_E1_Ejemplo-NN.ipynb): Ejemplo de redes neuronales completamente conectadas empleando Keras.
