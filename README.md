@@ -33,6 +33,13 @@ Ejemplos prácticos de este capítulo:
 
 - [Ejemplo de NN básico](cap03/C03_E1_Ejemplo-NN.ipynb): Ejemplo de redes neuronales completamente conectadas empleando Keras.
 
+## Capítulo 5. *Autoencoders*
+En este capítulo veremos ejemplos básicos de funcionamiento de los *autoencoders*.
+
+Ejemplos prácticos de este capítulo:
+
+- [Ejemplo de autoencoder](cap05/C05_E1_Shallow-AutoEncoder.ipynb): Ejemplo de redes neuronales completamente conectadas para crear un *autoencoder*.
+
 # Parte II: Redes neuronales convolucionales
 
 ## Capítulo 7. Principios y fundamentos
