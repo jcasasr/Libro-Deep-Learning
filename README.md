@@ -43,7 +43,7 @@ Ejemplos prácticos de este capítulo:
 # Parte II: Redes neuronales convolucionales
 
 ## Capítulo 7. Principios y fundamentos
-En este capítulo veremos ejemplos básicos de funcionamiento de redes neuronales convolucionales.
+En este capítulo veremos ejemplos básicos de funcionamiento de redes neuronales convolucionales (CNN).
 
 Ejemplos prácticos de este capítulo:
 
@@ -55,3 +55,12 @@ En este capítulo veremos algunas aplicaciones y *best practices* de funcionamie
 Ejemplos prácticos de este capítulo:
 
 - [Ejemplo de transferencia de estilo (NST)](cap09/C09_E1_Ejemplo-Neural-Style-Transfer.ipynb): Ejemplo de uso de una red neuronal para el problema de la transferencia de estilo (Neural Style Transfer, NST).
+
+# Parte III: Redes neuronales recurrentes
+
+## Capítulo 10. Fundamentos de las redes recurrentes
+En este capítulo veremos ejemplos básicos de funcionamiento de redes neuronales recurrentes (RNN).
+
+Ejemplos prácticos de este capítulo:
+
+- [Ejemplo de RNN básico aplicado a TSA](cap10/C10_E1_Ejemplo-series-temporales-RNN.ipynb): Ejemplo básico de red neuronal recurrente empleando Keras y aplicado a un problema de análisis de series temporales (TSA).
