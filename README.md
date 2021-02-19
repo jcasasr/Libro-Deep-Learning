@@ -24,7 +24,7 @@ Aunque es posible instalar el software necesario para poder seguir los ejemplos,
 - [Kaggle notebooks](https://www.kaggle.com/)
 - [Google Colab](https://colab.research.google.com/)
 
-## Parte I: Redes neuronales artificiales
+# Parte I: Redes neuronales artificiales
 
 ## Capítulo 3. Principios y fundamentos
 En este capítulo veremos ejemplos básicos de funcionamiento de redes neuronales complemtamente conectadas (feed-forward neural networks).
@@ -33,7 +33,7 @@ Ejemplos prácticos de este capítulo:
 
 - [Ejemplo de NN básico](cap03/C03_E1_Ejemplo-NN.ipynb): Ejemplo de redes neuronales completamente conectadas empleando Keras.
 
-## Parte II: Redes neuronales convolucionales
+# Parte II: Redes neuronales convolucionales
 
 ## Capítulo 7. Principios y fundamentos
 En este capítulo veremos ejemplos básicos de funcionamiento de redes neuronales convolucionales.
