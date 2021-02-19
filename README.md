@@ -24,9 +24,27 @@ Aunque es posible instalar el software necesario para poder seguir los ejemplos,
 - [Kaggle notebooks](https://www.kaggle.com/)
 - [Google Colab](https://colab.research.google.com/)
 
+## Parte I: Redes neuronales artificiales
+
 ## Capítulo 3. Principios y fundamentos
 En este capítulo veremos ejemplos básicos de funcionamiento de redes neuronales complemtamente conectadas (feed-forward neural networks).
 
 Ejemplos prácticos de este capítulo:
 
 - [Ejemplo de NN básico](cap03/C03_E1_Ejemplo-NN.ipynb): Ejemplo de redes neuronales completamente conectadas empleando Keras.
+
+## Parte II: Redes neuronales convolucionales
+
+## Capítulo 7. Principios y fundamentos
+En este capítulo veremos ejemplos básicos de funcionamiento de redes neuronales convolucionales.
+
+Ejemplos prácticos de este capítulo:
+
+- [Ejemplo de CNN básico con MNIST](cap07/C07_E1_Ejemplo-CNN-MNIST-Keras.ipynb): Ejemplo básico de red neuronal convolucional empleando Keras y trabajando con el dataset de dígitos MNIST.
+
+## Capítulo 9. Consejos prácticos y ejemplos
+En este capítulo veremos algunas aplicaciones y *best practices* de funcionamiento de redes neuronales convolucionales.
+
+Ejemplos prácticos de este capítulo:
+
+- [Ejemplo de transferencia de estilo (NST)](cap09/C09_E1_Ejemplo-Neural-Style-Transfer.ipynb): Ejemplo de uso de una red neuronal para el problema de la transferencia de estilo (Neural Style Transfer, NST).
