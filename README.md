@@ -1,5 +1,5 @@
 # Deep learning: Principios y fundamentos
-## Material adicional del libro **Deep learning: Principios y fundamentos**
+## Material adicional del libro "**Deep learning: Principios y fundamentos**"
 ### Por Anna Bosch Rué, Jordi Casas Roma y Toni Lozano Bagén
 
 <a href="https://www.editorialuoc.cat/deep-learning"><img src="https://www.editorialuoc.cat/media/cache/05/16/0516c673ca010fe373fe5a92f0dfa068.jpg" alt="Deep learning: Principios y fundamentos" height="256px" align="right"></a>
